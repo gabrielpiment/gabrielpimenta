@@ -17,7 +17,7 @@ const items = computed(() => {
 })
 
 const ui = {
-  wrapper: 'flex flex-col lg:flex-row gap-8 w-full',
+  wrapper: 'flex flex-col lg:flex-row gap-4 sm:gap-8 w-full',
   list: 'w-full lg:w-1/3 flex-col bg-transparent dark:bg-transparent gap-2 px-0 relative',
   indicator: 'absolute duration-200 ease-out focus:outline-none rounded-lg bg-elevated/60',
   trigger: 'px-4 py-3 text-left w-full justify-start rounded-lg hover:bg-muted/50 data-[state=active]:text-highlighted data-[state=inactive]:text-muted text-base font-medium',
