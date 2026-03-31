@@ -1,0 +1,6 @@
+title: Nutriana
+description: IA desenvolvida para ajudar no dia a dia de quem quer controlar calorias, proteínas e carboidratos, compreendendo as imagens das refeições pelo celular.
+image: https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1453&auto=format&fit=crop
+url: "https://ianutriana.com.br/"
+tags: ["IA & ML", "React Native", "Computer Vision", "TensorFlow", "Firebase"]
+date: "2024"

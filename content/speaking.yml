@@ -1,0 +1,33 @@
+title: Palestras & Consultoria
+description: Explore meus encontros técnicos e mentorias onde leciono sobre Inteligência Artificial, metodologias ágeis e automação digital corporativa.
+links:
+  - label: Convite para Mentoria
+    to: "https://wa.me/5534991557772"
+    size: md
+events:
+  - category: "Conferências"
+    title: "IA no CRM: Destravando o potencial multicanal da sua empresa"
+    date: "2024-10-26"
+    location: "Sebrae Inovação"
+    url: "#"
+  - category: "Conferências"
+    title: "Liderança e Metodologias Ágeis em times de Tecnologia"
+    date: "2024-06-15"
+    location: "Tech Nation Brasil"
+    url: "#"
+  - category: "Aulas In-company"
+    title: "Workflow automatizado: do funil da Meta ao Flux CRM"
+    date: "2024-08-20"
+    location: "Treinamento Corporativo (Remoto)"
+    url: "#"
+
+  - category: "Aulas Convidadas"
+    title: "Inteligência Artificial Aplicada a Vendas"
+    date: "2025-03-20"
+    location: "USP - Turma de Marketing"
+    url: "#"
+  - category: "Consultoria In-company"
+    title: "Estratégias para aumentar o LTV dos clientes"
+    date: "2025-02-10"
+    location: "SolarNext"
+    url: "#"

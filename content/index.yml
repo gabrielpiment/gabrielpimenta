@@ -1,0 +1,141 @@
+seo:
+  title: "Gabriel Pimenta - AI, Automação & Gestão de Tráfego"
+  description: "Bem-vindo ao meu portfólio! Sou Gabriel Pimenta, focado em Inteligência Artificial, automações e Gestão de Tráfego (Instagram e Google Ads). Ajudo empresas a otimizarem seus processos, melhorarem atendimento e venderem mais."
+title: "Olá, sou Gabriel Pimenta, Especialista em Soluções Tecnológicas Empresariais"
+description: "Movido por curiosidade e pela vontade de resolver problemas práticos de processos empresariais. Desenvolvo ferramentas acessíveis usando código e metodologias ágeis."
+hero:
+  links:
+    - label: "Entre em Contato"
+      to: "https://wa.me/5534991557772"
+      color: "neutral"
+  images:
+    - src: https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1632&auto=format&fit=crop
+      alt: Inteligência Artificial e Tecnologia
+    - src: https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1515&auto=format&fit=crop
+      alt: Marketing Digital e Performance
+    - src: https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop
+      alt: Dashboards e Dados de Conversão
+    - src: https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1470&auto=format&fit=crop
+      alt: Desenvolvimento Web Moderno
+    - src: https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1470&auto=format&fit=crop
+      alt: Automação e Sistemas
+    - src: https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1470&auto=format&fit=crop
+      alt: Liderança e Consultoria Ágil
+    - src: https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1510&auto=format&fit=crop
+      alt: Design de UI/UX
+    - src: https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1472&auto=format&fit=crop
+      alt: Estratégia de Tecnologia
+    - src: https://images.unsplash.com/photo-1531403009284-440f080d1e12?q=80&w=1470&auto=format&fit=crop
+      alt: Produtividade e Ferramentas Digitais
+about:
+  title: "Sobre Mim"
+  description: |
+    Sou fundador da ElevenIA, focada em desenvolver soluções de Inteligência Artificial aplicada a negócios, e da Flux CRM, plataforma omnichannel de multiatendimento.
+    Gestor de tráfego especialista em Instagram e Google Ads. Acredito que inovação de verdade facilita a vida das pessoas — e tenho vasta experiência liderando times (Metodologias Ágeis) para qualificação de leads, desenvolvimento web e criação mental de Design & UX incríveis.
+experience:
+  title: Experiência Profissional
+  items:
+    - position: "Fundador da"
+      date: "Mai 2024 - Presente"
+      company:
+        name: ElevenIA
+        logo: "i-simple-icons-robotics"
+        url: "#"
+        color: "#00DC82"
+    - position: "Agilista na"
+      date: "Mai 2024 - Nov 2024"
+      company:
+        name: SouJunior
+        logo: "i-simple-icons-agile"
+        url: "#"
+        color: "#3b82f6"
+    - position: "Ger. de Projetos na"
+      date: "Nov 2023 - Jan 2024"
+      company:
+        name: Brain Manager
+        logo: "i-simple-icons-project"
+        url: "#"
+        color: "#f59e0b"
+    - position: "CPIO no"
+      date: "Out 2022 - Nov 2023"
+      company:
+        name: MINAS BANK
+        logo: "i-simple-icons-bank"
+        url: "#"
+        color: "#475569"
+testimonials:
+  - quote: "Os fluxos automatizados de CRM e integrações inteligentes criados pelo Gabriel reduziram o trabalho manual da equipe brutalmente! Melhorando tanto a experiência do cliente quanto abrindo novos funis de vendas para o negócio crescer de forma sustentável."
+    author:
+      name: 'Cliente Parceiro'
+      description: 'Consultoria de Automação'
+      avatar:
+        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
+        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+  - quote: "A estratégia de tráfego pago para o nosso setor educacional foi absurda. Batemos o recorde de vendas ao fechar mais de 300 matrículas em apenas 2 meses, com um ROI que nunca tínhamos visto antes."
+    author:
+      name: 'Roger'
+      description: 'Fundador de Grupo Educacional (Faculdades)'
+      avatar:
+        src: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
+        srcset: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+  - quote: "O Gabriel entende a fundo como escalar no Instagram e Google Ads. Ele uniu o tráfego com automação de leads, garantindo que nenhum contato se perdesse e aumentando nossa conversão geral."
+    author:
+      name: 'CEO Método Dominus'
+      description: 'Assessoria Comercial & Educacional'
+      avatar:
+        src: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
+        srcset: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+  - quote: "A precisão em organizar as 'sprints' com Metodologias Ágeis permitiu otimizar todos os nossos gargalos corporativos. O Gabriel tem o dom de juntar desenvolvimento web e consultoria de negócios."
+    author:
+      name: 'Gestor Ágil'
+      description: 'Desenvolvimento Web & Inovação'
+      avatar:
+        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
+        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+blog:
+  title: "Últimos Artigos"
+  description: "Dicas de automação e metodologias ágeis"
+faq:
+  title: Especialidades & Serviços
+  description: Conheça as principais frentes em que atuo e como posso ajudar sua empresa a escalar de forma automática.
+  categories:
+    - title: "Inovação Digital"
+      questions:
+        - label: O que entregamos?
+          content: |
+            Transformamos ideias em soluções digitais inovadoras que impulsionam o crescimento. O processo passa por Ideação, Prototipagem, Testes e Implementação.
+        - label: Principais Recursos
+          content: |
+            Nossos pilares incluem Pesquisa & Desenvolvimento, focar em Tecnologias Emergentes, desenhar Soluções Personalizadas e definir uma sólida Estratégia Digital.
+    - title: "Consultoria Estratégica"
+      questions:
+        - label: Como abordamos o negócio?
+          content: |
+            Orientamos empresas na transformação digital e otimização de processos através de um fluxo focado em Análise, Estratégia, Planejamento e Execução assertiva.
+        - label: Nossos Recursos
+          content: |
+            Apoio completo com Análise de Negócios, Planejamento Estratégico, Otimização constante de Processos e Mentoria Técnica para guiar o time interno.
+    - title: "Inteligência Artificial & Labs"
+      questions:
+        - label: Qual a atuação da Inteligência Artificial?
+          content: |
+            Desenvolvemos soluções de IA práticas que automatizam processos e geram insights valiosos na cadeia de atendimento. Realizamos Coleta de Dados, Treinamento de Modelo, Validação e Implantação direta usando Machine Learning, Processamento de Linguagem e Automação Inteligente.
+        - label: O que é o Innovation Labs?
+          content: |
+            Um laboratório onde experimentamos com tecnologias de ponta para criar o futuro da inovação digital. Envolve Pesquisa Experimental, Prototipagem Avançada e Inovação Colaborativa.
+    - title: "Ads & Tráfego Pago"
+      questions:
+        - label: O que entregamos em tráfego?
+          content: |
+            Crio e gerencio campanhas de tráfego pago altamente focadas em conversão no Google Ads e Meta Ads (Facebook e Instagram), desenhando funis de ponta a ponta.
+        - label: Estratégias Digitais
+          content: |
+            Desde a configuração do pixel e estruturação da campanha de aquisição até o remarketing, unindo dados de IA para extrair leads qualificados reduzindo seu custo por clique.
+    - title: "Desenvolvimento Web & Sites"
+      questions:
+        - label: Criação de Landing Pages e Sites?
+          content: |
+            Desenvolvimento de sites institucionais e landing pages de altíssima performance, otimizados para conversão e ranqueamento no Google (SEO), utilizando tecnologias modernas como Nuxt.js e Vue.
+        - label: UX/UI Design
+          content: |
+            Design focado na experiência do usuário, garantindo uma navegação fluida, acessível e responsiva em dispositivos móveis e desktops para reter o cliente na sua página.
