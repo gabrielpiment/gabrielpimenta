@@ -10,7 +10,7 @@ const { style } = useScrollShadow(el, { orientation: 'horizontal' })
 </script>
 
 <template>
-  <div class="fixed top-2 sm:top-4 mx-auto left-1/2 transform -translate-x-1/2 z-10 max-w-[90vw] sm:max-w-full">
+  <div class="fixed top-2 sm:top-4 mx-auto left-1/2 transform -translate-x-1/2 z-10 w-[95vw] sm:max-w-full px-2 sm:px-0">
     <div ref="el" class="overflow-x-auto whitespace-nowrap hide-scrollbar rounded-full" :style="style">
       <UNavigationMenu
         :items="links"
